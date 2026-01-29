@@ -1,2 +1,2 @@
-# komandaKomanda
+# komanda Komanda
 komanda?
