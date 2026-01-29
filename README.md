@@ -1,2 +1,2 @@
-# komanda Komanda
-komanda?
+# This team is called "Team"
+
